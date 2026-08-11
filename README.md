@@ -4,8 +4,7 @@ Bem-vinda(o) ao meu portfólio! 🚀
 Este projeto foi desenvolvido para apresentar minhas habilidades como desenvolvedora Full Stack em formação.
 
 🔗 **Acesse o projeto online:**  
-file:///C:/Users/Grazi/OneDrive%20-%20unimar.br/%C3%81rea%20de%20Trabalho/meu-portifolio/index.html
-
+https://meuportifoliograzy.netlify.app/
 ---
 
 ## ✨ Sobre o projeto
